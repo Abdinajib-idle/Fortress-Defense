@@ -11,6 +11,7 @@ import java.util.Scanner;
 /**
  * Handle the text-based display and keyboard based interaction for
  * running the Fortress Defense game.
+ * @author Abdinajib Idle & Aryan Rashid
  */
 public class TextUI {
     private static final char SYMBOL_FOG = '~';

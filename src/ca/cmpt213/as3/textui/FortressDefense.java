@@ -5,6 +5,7 @@ import ca.cmpt213.as3.model.Tank;
 
 /**
  * Launch the Fortress Defense game (text-mode).
+ * @author Abdinajib Idle & Aryan Rashid
  */
 public class FortressDefense {
     private static final int DEFAULT_NUMBER_TANKS = 5;
