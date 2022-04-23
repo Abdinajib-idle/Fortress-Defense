@@ -1,4 +1,4 @@
-package ca.cmpt213.as3.textui;
+package ca.cmpt213.as3.textUI;
 
 import ca.cmpt213.as3.model.Game;
 import ca.cmpt213.as3.model.Tank;

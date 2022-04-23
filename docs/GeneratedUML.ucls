@@ -28,7 +28,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="ca.cmpt213.as3.textui.TextUI" project="As2-FortressDefense"
+  <class id="4" language="java" name="ca.cmpt213.as3.textUI.TextUI" project="As2-FortressDefense"
     file="/As2-FortressDefense/src/ca/cmpt213/as2/textui/TextUI.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="200" y="243"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
